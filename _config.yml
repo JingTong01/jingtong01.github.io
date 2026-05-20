@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jingtong.png"
+  avatar           : "jingtong01.github.io/images/jingtong.png"
   name             : "Your Sidebar Name"
   pronouns         :  "she/her"  
   bio              : "Short biography for the left-hand sidebar"
