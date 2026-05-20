@@ -9,6 +9,6 @@ In both experiments,better performance was observed in semantically congruent co
 Our results indicate that prediction impacts within-language and cross-language production in different ways, facilitating within-language production while hindering cross-language production.'
 date:  2025-07-12
 venue: 'International Journal of Bilingualism'
-paperurl: 'https://academicpages.github.io/files/Within-language and cross-languages prediction.pdf'
+paperurl: 'https://jingtong01.github.io/files/Within-language and cross-languages prediction.pdf'
 citation: 'Tong, J., Koch, I., & Philipp, A. M. (2025). Within-language and cross-languages prediction: Evidence from semantic classifier congruency. International Journal of Bilingualism, 13670069251353414.'
 ---
