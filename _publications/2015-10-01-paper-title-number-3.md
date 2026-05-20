@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Transcranial direct current stimulation influences bilingual language control mechanism: evidence from cross-frequency coupling."
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink:(https://doi.org/10.1007/s11571-019-09561-w)
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 
+venue: 
+paperurl: 'https://academicpages.github.io/files/ Transcranial direct current stimulation influences bilingual language control mechanism.pdf'
+citation: 'Tong, J., Kong, C., Wang, X., Liu, H., Li, B., & He, Y. (2019). Transcranial direct current stimulation influences bilingual language control mechanism: evidence from cross-frequency coupling. Cognitive Neurodynamics, 14, 203-214.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
