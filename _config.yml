@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : 
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jing Tong"
 title_separator          : "-"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/jingtong.png"
-  name             : "Your Sidebar Name"
-  pronouns         :  "she/her"  
+  avatar           : "profile.png"
+  name             : 
+  pronouns         :  
   bio              : "Short biography for the left-hand sidebar"
   location         : 
   employer         : 
