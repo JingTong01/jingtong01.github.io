@@ -23,7 +23,7 @@ repository               : "JingTong01/jingtong01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/jingtong01.png"
+  avatar           : "/images/jingtong01.png"
   name             : 
   pronouns         :  
   bio              : "Short biography for the left-hand sidebar"
