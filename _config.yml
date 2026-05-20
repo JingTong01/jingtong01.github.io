@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jingtong01.github.io/images/jingtong.png"
+  avatar           : "/images/jingtong.png"
   name             : "Your Sidebar Name"
   pronouns         :  "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jing-Tong-12?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
