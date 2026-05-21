@@ -17,12 +17,14 @@ Prior to my PhD, I earned a Bachelor’s degree in Psychology from Guangzhou Uni
 ## Research Interests
 
 - Language and cognitive control
+- Language-specific and domain-general mechanisms
+- Neurocognition of language
 - Prediction in language processing
 - Bilingual language production
 - Bilingualism
-- Predictive processing
+- Predictive processing in the brain
 - Cognitive neuroscience
-- Transcranial direct current stimulation (tDCS)
+
 
 ---
 
