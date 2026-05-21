@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 # About Me
 
 I completed my PhD in Cognitive Psychology at RWTH Aachen University in December 2025 under the supervision of Iring Koch and Andrea M. Philipp.
@@ -14,42 +16,42 @@ My doctoral research, entitled *The Role of Prediction During Language Processin
 
 During my master’s training, my research focused on bilingual language control, including the use of non-invasive brain stimulation techniques such as transcranial direct current stimulation (tDCS), as well as the investigation of reward expectation in bilingual language processing.
 
-<div style="display: flex; gap: 40px;">
+---
 
-<div style="flex: 1;">
+<div class="row">
 
-## Research Interests
+  <div class="column">
 
-- Language and cognitive control
-- Prediction in language processing
-- Bilingual language production
-- Bilingualism
-- Predictive processing
-- Cognitive neuroscience
-- Transcranial direct current stimulation (tDCS)
+    ## Research Interests
 
-</div>
+    - Language and cognitive control  
+    - Prediction in language processing  
+    - Bilingual language production  
+    - Bilingualism  
+    - Predictive processing  
+    - Cognitive neuroscience  
+    - Transcranial direct current stimulation (tDCS)
 
-<div style="flex: 1;">
+  </div>
 
-## Skills
+  <div class="column">
 
-### Programming
+    ## Skills
 
-- R
-- Python
-- MATLAB
-- SPSS
+    ### Programming
+    - R
+    - Python
+    - MATLAB
+    - SPSS
 
-### Data Analysis
+    ### Data Analysis
+    - ERP analysis
+    - Time–frequency analysis
+    - Growth curve analysis
+    - Cluster-based permutation analysis
+    - Linear mixed-effects models
+    - ANOVAs
 
-- Event-related potential (ERP) analysis
-- Time–frequency analysis
-- Growth curve analysis
-- Cluster-based permutation analysis
-- Linear mixed-effects models
-- ANOVAs
-
-</div>
+  </div>
 
 </div>
