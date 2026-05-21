@@ -5,12 +5,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# About me
+I completed my PhD in Cognitive Psychology at RWTH Aachen University in December 2025, under the supervision of Iring Koch and Andrea M. Philipp.
 
-I completed my PhD in Cognitive Psychology at RWTH Aachen University in December 2025 under the supervision of Iring Koch and Andrea M. Philipp.
+My doctoral dissertation, The Role of Prediction During Language Processing, examined whether semantic prediction can influence language control during bilingual language switching, as well as whether disconfirmed predictions are processed differently in within-language versus cross-language contexts.
 
-My doctoral research, entitled *The Role of Prediction During Language Processing*, investigated whether semantic prediction can modulate language control during bilingual language switching, as well as whether disconfirmed predictions are processed differently in within-language and cross-language contexts.
-
-During my master’s training, my research focused on bilingual language control, including the use of non-invasive brain stimulation techniques such as transcranial direct current stimulation (tDCS), as well as the investigation of reward expectation in bilingual language processing.
+Prior to my PhD, I earned a Bachelor’s degree in Psychology from Guangzhou University, China, and a Master’s degree in Psychology from the Research Center of Brain and Cognitive Neuroscience at Liaoning Normal University, China. During my master’s training, my research focused on bilingual language control, including the use of non-invasive brain stimulation techniques such as transcranial direct current stimulation (tDCS), as well as investigations of reward expectation in bilingual language processing.
 
 ---
 
