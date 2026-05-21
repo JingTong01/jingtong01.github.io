@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed my PhD in Cognitive Psychology at RWTH Aachen University in 2025, under the supervision of Iring Koch and Andrea M. Philipp.
+I completed my PhD in Cognitive Psychology at RWTH Aachen University in December 2025, under the supervision of Iring Koch and Andrea M. Philipp.
 
 My doctoral dissertation, The Role of Prediction During Language Processing, examined whether semantic prediction can influence language control during bilingual language switching, as well as whether disconfirmed predictions are processed differently in within-language versus cross-language contexts.
 
