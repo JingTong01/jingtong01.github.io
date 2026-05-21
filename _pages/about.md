@@ -1,9 +1,42 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# About Me
+
+I completed my PhD in Cognitive Psychology at RWTH Aachen University in December 2025 under the supervision of Iring Koch and Andrea M. Philipp.
+
+My doctoral research, entitled *The Role of Prediction During Language Processing*, investigated whether semantic prediction can modulate language control during bilingual language switching, as well as whether disconfirmed predictions are processed differently in within-language and cross-language contexts.
+
+During my master’s training, my research focused on bilingual language control, including the use of non-invasive brain stimulation techniques such as transcranial direct current stimulation (tDCS), as well as the investigation of reward expectation in bilingual language processing.
+
+## Research Interests
+
+- Language and cognitive control
+- Prediction in language processing
+- Bilingual language production
+- Bilingualism
+- Predictive function of the brain
+- Cognitive neuroscience
+- Transcranial direct current stimulation (tDCS)
+
+## Skills
+### Programming skill
+- R
+- Python
+- Matlab
+- SPSS
+  
+  ### Analyzing skill
+  - event-related brain potential analysis
+  - time–frequency analysis
+  - growth curve 
+  - analysis
+  - cluster‑based permutation analysis
+  - Linear mixed model, ANOVAs.
+  
+  
