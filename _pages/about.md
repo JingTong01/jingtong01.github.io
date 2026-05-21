@@ -20,23 +20,24 @@ During my master’s training, my research focused on bilingual language control
 - Prediction in language processing
 - Bilingual language production
 - Bilingualism
-- Predictive function of the brain
+- Predictive processing
 - Cognitive neuroscience
 - Transcranial direct current stimulation (tDCS)
 
 ## Skills
-### Programming skill
+
+### Programming
+
 - R
 - Python
-- Matlab
+- MATLAB
 - SPSS
-  
-  ### Analyzing skill
-  - event-related brain potential analysis
-  - time–frequency analysis
-  - growth curve 
-  - analysis
-  - cluster‑based permutation analysis
-  - Linear mixed model, ANOVAs.
-  
-  
+
+### Data Analysis
+
+- Event-related potential (ERP) analysis
+- Time–frequency analysis
+- Growth curve analysis
+- Cluster-based permutation analysis
+- Linear mixed-effects models
+- ANOVAs
