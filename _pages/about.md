@@ -43,5 +43,6 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 - Time–frequency analysis
 - Growth curve analysis
 - Cluster-based permutation analysis
+- eye-tracking data/pupillometry
 - Linear mixed-effects models
 - ANOVAs
