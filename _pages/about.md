@@ -46,3 +46,10 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 - eye-tracking data/pupillometry
 - Linear mixed-effects models
 - ANOVAs
+
+---
+
+## My personal research assistant
+![My photo](images/cat.png)
+
+  
