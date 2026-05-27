@@ -23,7 +23,6 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 - Bilingualism
 - Predictive processing in the brain
 - Cognitive neuroscience
-  
 ---
 
 ## Skills
@@ -40,7 +39,6 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 - eye-tracking data/pupillometry
 - Linear mixed-effects models
 - ANOVAs
-
 ---
 
 ## My personal research assistant
