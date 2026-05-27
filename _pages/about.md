@@ -46,7 +46,7 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 
 ### Emotional support specialist and certified productivity obstructer. 
 
-Specializes in keyboard blocking, paper crumpling, and late-night cuddle therapy.
+Specializes in keyboard blocking, paper crumpling, and cuddle therapy.
 
 ![My photo](images/cat.png)
 ---
