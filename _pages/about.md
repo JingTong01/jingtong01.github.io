@@ -22,7 +22,8 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 - Bilingual language production
 - Bilingualism
 - Predictive processing in the brain
-- Cognitive neuroscience
+-  Cognitive neuroscience
+- 
 ---
 
 ## Skills
