@@ -42,7 +42,7 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 
 ---
 
-## My personal research assistant
+## My personal research assistant/Emotional Support/productivity obstructer
 
 ![My photo](images/cat.png)
 
