@@ -15,7 +15,6 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 ---
 
 ## Research Interests
-
 - Language-specific and domain-general mechanisms
 - Language and cognitive control
 - Neurocognition of language
@@ -24,12 +23,9 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 - Bilingualism
 - Predictive processing in the brain
 - Cognitive neuroscience
-
-
 ---
 
 ## Skills
-
 ### Programming
 - R
 - Python
