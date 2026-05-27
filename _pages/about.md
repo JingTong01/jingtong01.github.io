@@ -31,14 +31,11 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 ## Skills
 
 ### Programming
-
 - R
 - Python
 - MATLAB
 - SPSS
-
 ### Data Analysis
-
 - Event-related potential (ERP) analysis
 - Time–frequency analysis
 - Growth curve analysis
