@@ -31,6 +31,7 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 - Python
 - MATLAB
 - SPSS
+---
 ### Data Analysis
 - Event-related potential (ERP) analysis
 - Time–frequency analysis
