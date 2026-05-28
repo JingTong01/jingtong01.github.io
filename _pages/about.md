@@ -26,12 +26,14 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 ---
 
 ## Skills
+
 ### Programming
 - R
 - Python
 - MATLAB
 - SPSS
----
+
+
 ### Data Analysis
 - Event-related potential (ERP) analysis
 - Time–frequency analysis
@@ -40,6 +42,8 @@ Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. Dur
 - eye-tracking data/pupillometry
 - Linear mixed-effects models
 - ANOVAs
+
+
 
 ---
 
