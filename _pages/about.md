@@ -8,17 +8,17 @@ redirect_from:
 
 ## Research Experience**
 
-### PhD Researcher, Cognitive Psychology**
+### PhD Researcher, Cognitive Psychology
 RWTH Aachen University, Germany
 Supervisor: Prof. Iring Koch and Prof. Andrea M. Philipp
 
 My doctoral research focused on the role of prediction during bilingual language processing. In my dissertation, *The Role of Prediction During Language Processing*, I investigated whether semantic prediction influences language control during bilingual language switching and whether disconfirmed predictions are processed differently in within-language versus cross-language contexts. This work combined experimental approaches from cognitive psychology and psycholinguistics to advance understanding of predictive mechanisms in bilingual language comprehension.
 
-### Postdoctoral Research Scholar (Offer Received)**
+### Postdoctoral Research Scholar (Offer Received)
 Cognitive Neurology Lab, University of Iowa, USA
 Principal Investigator: Prof. Jan Wessel
 
-Following completion of my PhD, I was offered a Postdoctoral Research Scholar position in the Cognitive Neurology Lab at the University of Iowa. The position could not be undertaken because my U.S. visa application was not approved.
+Following completion of my PhD, I was offered a Postdoctoral Research Scholar position in the Cognitive Neurology Lab (led by Prof. JJan R. Wessel) at the University of Iowa. The position could not be undertaken because my U.S. visa application was not approved.
 
 ### Master’s Researcher, Psychology**
 
