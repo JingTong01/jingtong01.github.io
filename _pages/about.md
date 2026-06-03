@@ -9,9 +9,9 @@ redirect_from:
 
 
 
-# Experience
+## Experience
 
-## PhD in Cognitive Psychology, December 2020- December 2025
+### PhD in Cognitive Psychology, December 2020- December 2025
 
 RWTH Aachen University, Germany. Supervisors: Prof. Iring Koch and Prof. Andrea M. Philipp
 
@@ -19,7 +19,7 @@ My doctoral research focused on the role of prediction during bilingual language
 
 
 
-## Postdoctoral Research Scholar, January 2026 (Offer received but position not taken)
+### Postdoctoral Research Scholar, January 2026 (Offer received but position not taken)
 
 Cognitive Neurology Lab, University of Iowa, USA. PI: Prof. Jan Wessel
 
@@ -27,7 +27,7 @@ Following completion of my PhD, I was offered a postdoctoral research scholar po
 
 
 
-## Master in Psychology, September 2012- June 2016
+### Master in Psychology, September 2012- June 2016
 
 
 Prior to my doctoral training, I earned aa Master's degree in Psychology from Liaoning Normal University in China. My master's research focused on bilingual language control, including investigations of reward expectation in bilingual language processing and the application of transcranial direct current stimulation (tDCS) to to modulate brain regions associated with language control.
