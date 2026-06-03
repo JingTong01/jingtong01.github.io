@@ -8,7 +8,6 @@ redirect_from:
 
 
 
-Experience
 
 1) PhD in Cognitive Psychology, December 2020- December 2025
    
