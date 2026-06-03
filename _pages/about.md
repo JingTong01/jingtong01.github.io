@@ -6,6 +6,7 @@ redirect_from:
   - /about.html
 ---
 
+
 ## Research Experience
 
 ### PhD in Cognitive Psychology, December 2020- December 2025 
