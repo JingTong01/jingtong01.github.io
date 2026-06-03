@@ -6,11 +6,24 @@ redirect_from:
   - /about.html
 ---
 
-I completed my PhD in Cognitive Psychology at RWTH Aachen University, under the supervision of Iring Koch and Andrea M. Philipp.
+## Research Experience**
 
-My doctoral dissertation, The Role of Prediction During Language Processing, examined whether semantic prediction can influence language control during bilingual language switching, as well as whether disconfirmed predictions are processed differently in within-language versus cross-language contexts.
+### PhD Researcher, Cognitive Psychology**
+RWTH Aachen University, Germany
+Supervisor: Prof. Iring Koch and Prof. Andrea M. Philipp
 
-Prior to my PhD, I earned both Bachelor and Master’s degree in Psychology. During my master’s training, my research focused on bilingual language control, including the use of non-invasive brain stimulation techniques such as transcranial direct current stimulation (tDCS) to modulate brain regions associated with language control, as well as investigations of reward expectation in bilingual language processing.
+My doctoral research focused on the role of prediction during bilingual language processing. In my dissertation, *The Role of Prediction During Language Processing*, I investigated whether semantic prediction influences language control during bilingual language switching and whether disconfirmed predictions are processed differently in within-language versus cross-language contexts. This work combined experimental approaches from cognitive psychology and psycholinguistics to advance understanding of predictive mechanisms in bilingual language comprehension.
+
+### Postdoctoral Research Scholar (Offer Received)**
+Cognitive Neurology Lab, University of Iowa, USA
+Principal Investigator: Prof. Jan Wessel
+
+Following completion of my PhD, I was offered a Postdoctoral Research Scholar position in the Cognitive Neurology Lab at the University of Iowa. The position could not be undertaken because my U.S. visa application was not approved.
+
+### Master’s Researcher, Psychology**
+
+Prior to my doctoral training, I completed both Bachelor's and Master's degrees in Psychology. My master's research focused on bilingual language control, including investigations of reward expectation in bilingual language processing and the application of transcranial direct current stimulation (tDCS) to examine the causal role of brain regions involved in language control.
+
 
 ---
 
