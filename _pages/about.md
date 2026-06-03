@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-1) December 2020- December 2025, PhD in Cognitive Psychology, RWTH Aachen University, Germany. Supervisors: Prof. Iring Koch and Prof. Andrea M. Philipp
+1) December 2020- December 2025, PhD in Cognitive Psychology, RWTH Aachen University, Germany. Supervisors: Prof. Iring Koch and Dr. Andrea M. Philipp
 - My doctoral research focused on the role of prediction during bilingual language processing. In my dissertation, *The Role of Prediction During Language Processing*, I investigated whether semantic prediction influences language control during bilingual language switching and whether disconfirmed predictions are processed differently in within-language versus cross-language contexts. This work combined experimental approaches from cognitive psychology and psycholinguistics to advance understanding of predictive mechanisms in bilingual language comprehension.
 
 
