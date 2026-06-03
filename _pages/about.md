@@ -16,7 +16,7 @@ My doctoral research focused on the role of prediction during bilingual language
 
 ### Postdoctoral Research Scholar (Offer received but position not taken)
 Cognitive Neurology Lab, University of Iowa, USA
-Principal Investigator: Prof. Jan Wessel
+PI: Prof. Jan Wessel
 
 Following completion of my PhD, I was offered a Postdoctoral Research Scholar position in the Cognitive Neurology Lab (led by Prof. Jan R. Wessel) at the University of Iowa. The position could not be undertaken because my U.S. visa application was not approved.
 
