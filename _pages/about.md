@@ -29,8 +29,8 @@ Prior to my doctoral training, I earned aa Master's degree in Psychology from Li
 ## Research Interests
 - Language-specific and domain-general mechanisms
 - Language and cognitive control
-- Neurocognition of language
 - Prediction in language processing
+- Neurocognition of language
 - Bilingual language production
 - Bilingualism
 - Predictive processing in the brain
