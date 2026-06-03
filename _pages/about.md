@@ -29,7 +29,7 @@ Cognitive Neurology Lab, University of Iowa, USA. PI: Prof. Jan Wessel
 
 Master in Psychology, September 2012- June 2016
 
--Prior to my doctoral training, I earned aa Master's degree in Psychology from Liaoning Normal University in China. My master's research focused on bilingual language control, including investigations of reward expectation in bilingual language processing and the application of transcranial direct current stimulation (tDCS) to to modulate brain regions associated with language control.
+- Prior to my doctoral training, I earned aa Master's degree in Psychology from Liaoning Normal University in China. My master's research focused on bilingual language control, including investigations of reward expectation in bilingual language processing and the application of transcranial direct current stimulation (tDCS) to to modulate brain regions associated with language control.
 
 
 ---
