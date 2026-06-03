@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-## Research Experience
+# Experience
 ### PhD in Cognitive Psychology, December 2020- December 2025 
 RWTH Aachen University, Germany. Supervisors: Prof. Iring Koch and Prof. Andrea M. Philipp
 
