@@ -27,7 +27,7 @@ redirect_from:
 
 ---
 
-## Research Interests
+### Research Interests
 - Language-specific and domain-general mechanisms
 - Language and cognitive control
 - Prediction in language processing
@@ -38,16 +38,16 @@ redirect_from:
 
 ---
 
-## Skills
+### Skills
 
-### Programming
+#### Programming
 - R
 - Python
 - MATLAB
 - SPSS
 
 
-### Data Analysis
+#### Data Analysis
 - Event-related potential (ERP) analysis
 - Time–frequency analysis
 - Growth curve analysis
@@ -60,9 +60,9 @@ redirect_from:
 
 ---
 
-## My personal research assistant
+### My personal research assistant
 
-### Emotional support specialist and certified productivity obstructer. 
+#### Emotional support specialist and certified productivity obstructer. 
 
 Specializes in keyboard blocking, paper crumpling, and cuddle therapy.
 
