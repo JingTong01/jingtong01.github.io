@@ -1,13 +1,13 @@
 ---
+title: "About Me"
 permalink: /
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-
-
+## Experience
 ### Postdoctoral Research Scholar (Offer received but position not taken),January 2026
 Cognitive Neurology Lab, University of Iowa, USA. PI: Prof. Jan Wessel
 
