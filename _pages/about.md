@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Experience
+## 1. Experience
 ### Postdoctoral Research Scholar (Offer received but position not taken), January 2026
 Cognitive Neurology Lab, University of Iowa, USA. PI: Prof. Jan Wessel
 
@@ -26,7 +26,7 @@ My master's research focused on bilingual language control, including investigat
 
 ---
 
-## Research Interests
+## 2. Research Interests
 - Language-specific and domain-general mechanisms
 - Language and cognitive control
 - Prediction in language processing
@@ -37,7 +37,7 @@ My master's research focused on bilingual language control, including investigat
 
 ---
 
-## Skills
+## 3. Skills
 
 ### Programming
 - R
@@ -59,7 +59,7 @@ My master's research focused on bilingual language control, including investigat
 
 ---
 
-## My personal research assistant
+## 4. My personal research assistant
 
 ### Emotional support specialist and certified productivity obstructer. 
 
