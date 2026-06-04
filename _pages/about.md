@@ -8,20 +8,20 @@ redirect_from:
 ---
 
 ## Experience
-### Postdoctoral Research Scholar (Offer received but position not taken),January 2026
+### Postdoctoral Research Scholar (Offer received but position not taken), January 2026
 Cognitive Neurology Lab, University of Iowa, USA. PI: Prof. Jan Wessel
 
-Following completion of my PhD, I was offered a Postdoctoral Research Scholar position at the University of Iowa. The appointment could not be undertaken due to the rejection of my U.S. visa application.
+This appointment could not be undertaken because my U.S. visa application was not approved.
 
 ### PhD in Cognitive Psychology, December 2020- December 2025
 RWTH Aachen University, Germany. Supervisors: Prof. Iring Koch and Dr. Andrea M. Philipp
 
-My doctoral research focused on the role of prediction during bilingual language processing. In my dissertation, *The Role of Prediction During Language Processing*, I investigated whether semantic prediction influences language control during bilingual language switching and whether disconfirmed predictions are processed differently in within-language versus cross-language contexts. This work combined experimental approaches from cognitive psychology and psycholinguistics to advance understanding of predictive mechanisms in bilingual language comprehension.
+In my doctoral dissertation, *The Role of Prediction During Language Processing*, I investigated whether semantic prediction influences language control during bilingual language switching and whether disconfirmed prediction is processed differently in within-language versus cross-language contexts. This work combined experimental approaches from cognitive psychology and psycholinguistics to advance understanding of predictive mechanisms in  within- and cross-language production and comprehension.
 
 ### Master in Psychology, September 2017- June 2020
 Research Center of Brain and Cognitive Neuroscience, Liaoning Normal University, China. Supervisors: Huanhuan Liu, Ph.D.
 
-My master's research focused on bilingual language control, including investigations of reward expectation in bilingual language processing and the application of transcranial direct current stimulation (tDCS) to to modulate brain regions associated with language control.
+My master's research focused on bilingual language control, including investigations of reward expectation in bilingual language processing and the application of transcranial direct current stimulation (tDCS) to modulate brain regions associated with language control.
 
 
 ---
