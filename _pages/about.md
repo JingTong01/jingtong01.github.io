@@ -7,11 +7,11 @@ redirect_from:
 ---
 
 
-## Experience
+
 ### Postdoctoral Research Scholar (Offer received but position not taken),January 2026
 Cognitive Neurology Lab, University of Iowa, USA. PI: Prof. Jan Wessel
 
-Following completion of my PhD, I was offered a postdoctoral research scholar position at the University of Iowa. The position could not be undertaken because my U.S. visa application was not approved.
+Following completion of my PhD, I was offered a Postdoctoral Research Scholar position at the University of Iowa. The appointment could not be undertaken due to the rejection of my U.S. visa application.
 
 ### PhD in Cognitive Psychology, December 2020- December 2025
 RWTH Aachen University, Germany. Supervisors: Prof. Iring Koch and Dr. Andrea M. Philipp
