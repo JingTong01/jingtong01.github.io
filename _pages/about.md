@@ -12,6 +12,7 @@ Methodologically, I have extensive experience in experimental design, statistica
 
 ---
 ## Research Interests
+
 - Prediction in language processing
 - Language-specific and domain-general mechanisms
 - Bilingualism and language control
